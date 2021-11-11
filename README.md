@@ -13,6 +13,11 @@ Step 2. After making changes in the pulled main branch, create a new branch with
   
 Step 3. Push your code to this new branch you created and then create a pull request.
   
+# Screens
+
+### `Login`
+
+![](1368x684_login.gif)
 
 # Getting Started with Create React App
 
