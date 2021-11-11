@@ -1,7 +1,7 @@
 # Yarron
 This is a social media website specially made for Indian users.
 
-(![] Yarron.png)
+![](Yarron.png)
 
 # How to contribute
 
