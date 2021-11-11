@@ -1,6 +1,8 @@
 # Yarron
 This is a social media website specially made for Indian users.
 
+(![] Yarron.png)
+
 # How to contribute
 
 Step 1. Pull the code from main branch of this repository.
